@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/pepabo/go-netapp/netapp"
+	"github.com/EncoreTechnologies/go-netapp/netapp"
 )
 
 func TestNet_VlanGetSuccess(t *testing.T) {

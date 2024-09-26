@@ -3,7 +3,7 @@ package netapp_test
 import (
 	"testing"
 
-	"github.com/pepabo/go-netapp/netapp"
+	"github.com/EncoreTechnologies/go-netapp/netapp"
 )
 
 func TestVServer_ExportsRuleCreateSuccess(t *testing.T) {

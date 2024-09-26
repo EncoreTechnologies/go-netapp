@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/pepabo/go-netapp/netapp"
+	"github.com/EncoreTechnologies/go-netapp/netapp"
 )
 
 func TestSnapmirror_GetSuccess(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/pepabo/go-netapp/netapp"
+	"github.com/EncoreTechnologies/go-netapp/netapp"
 )
 
 func TestVServer_GetSuccess(t *testing.T) {

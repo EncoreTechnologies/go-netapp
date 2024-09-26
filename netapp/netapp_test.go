@@ -11,8 +11,8 @@ import (
 	"reflect"
 	"testing"
 
+	"github.com/EncoreTechnologies/go-netapp/netapp"
 	"github.com/andreyvit/diff"
-	"github.com/pepabo/go-netapp/netapp"
 )
 
 func setup() (baseURL string, mux *http.ServeMux, teardownFn func()) {
