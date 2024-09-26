@@ -3,7 +3,7 @@ package netapp_test
 import (
 	"testing"
 
-	"github.com/pepabo/go-netapp/netapp"
+	"github.com/EncoreTechnologies/go-netapp/netapp"
 )
 
 func TestQosPolicy_GetSuccess(t *testing.T) {

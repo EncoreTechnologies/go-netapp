@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
+	"github.com/EncoreTechnologies/go-netapp/netapp"
 	"github.com/k0kubun/pp"
-	"github.com/pepabo/go-netapp/netapp"
 )
 
 func main() {

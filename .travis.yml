@@ -6,7 +6,7 @@ go:
   - "1.10"
   - "1.11"
 
-go_import_path: github.com/pepabo/go-netapp
+go_import_path: github.com/EncoreTechnologies/go-netapp
 env:
   - GO111MODULE=auto
 
